@@ -47,7 +47,7 @@ The Sales Data Analysis project is designed to analyze and visualize sales data,
 ## Data Sources
 
 The project uses sales data from the following sources:
-- **[List of data sources or databases used]**
+- **https://github.com/PratikC07/SALES-ANALYSIS-DASHBOARD/blob/main/db_dump.sql**
 
 Please refer to the documentation for more details on the data schema and structure.
 
