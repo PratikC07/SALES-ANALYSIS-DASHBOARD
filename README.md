@@ -53,7 +53,7 @@ Please refer to the documentation for more details on the data schema and struct
 
 ## Website Link
 
-You can access the interactive dashboard on our website: [Dashboard Website Link]
+You can access the interactive dashboard on our website: https://app.powerbi.com/view?r=eyJrIjoiMDQ3Y2I4NzYtYjkzNy00MjU1LTg3NWEtMmIyYjI2ZDFmY2NlIiwidCI6IjVlMjVjZTVhLWJlMzItNGUxYy05MjczLWYyY2MzODYzYjkzYSJ9
 
 ## Contributing
 
